@@ -1,5 +1,5 @@
 ### Greetings, and welcome to my GitHub account 👋 
-- :superhero_woman: I’m very good at Optimization, Probability, and Statistics
+- :superhero_woman: I’m very good at Math Programming/Optimization, Probability, and Statistics
 - 👀 I'm lately interested in cool applications in Machine Learning and Data Science
 - 🌱 I’m currently learning more Python and getting better at Julia
 - :computer: Other programming languages: FORTRAN, C/C++, Octave/MATLAB
